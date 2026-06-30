@@ -17,4 +17,7 @@ Disclaimer
 This project is provided solely for educational purposes and authorized security research. It should only be used in environments where you have explicit permission to test. Users are responsible for complying with all applicable laws, regulations, and organizational policies. The authors assume no responsibility for misuse of this software.
 
 Contributions, bug reports, documentation improvements, and feature suggestions are welcome.
-
+steps after cloning this repo 
+(I) type "ls"
+(II) type ./shell
+(III) if not working make sure GOLANG has been in your system must 
